@@ -1,0 +1,244 @@
+{
+    "universityData": [
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "davietjal.org"
+            ],
+            "name": "DAV Institute of Engineering & Technology",
+            "state-province": "Punjab",
+            "web_pages": [
+                "http://www.davietjal.org/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "lpu.in"
+            ],
+            "name": "Lovely Professional University",
+            "state-province": "Punjab",
+            "web_pages": [
+                "http://www.lpu.in/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "somaiya.edu"
+            ],
+            "name": "Somaiya Vidyavihar",
+            "state-province": null,
+            "web_pages": [
+                "https://somaiya.edu/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "ncuindia.edu"
+            ],
+            "name": "NorthCap University",
+            "state-province": "Haryana",
+            "web_pages": [
+                "http://www.ncuindia.edu/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "ddu.ac.in"
+            ],
+            "name": "Dharamsinh Desai University",
+            "state-province": "Gujarat",
+            "web_pages": [
+                "http://www.ddu.ac.in/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "ntruhs.ap.nic.in"
+            ],
+            "name": "University of Health Sciences Andhra Pradesh",
+            "state-province": "Andhra Pradesh",
+            "web_pages": [
+                "http://ntruhs.ap.nic.in/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "aaidu.org"
+            ],
+            "name": "Allahabad Agricultural Institute, Deemed University",
+            "state-province": null,
+            "web_pages": [
+                "http://www.aaidu.org/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "aau.ac.in"
+            ],
+            "name": "Assam Agricultural University",
+            "state-province": "Assam",
+            "web_pages": [
+                "http://www.aau.ac.in/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "ahduni.edu.in"
+            ],
+            "name": "Ahmedabad University",
+            "state-province": "Gujarat",
+            "web_pages": [
+                "http://www.ahduni.edu.in/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "aiims.ac.in"
+            ],
+            "name": "All India Institute of Medical Sciences",
+            "state-province": null,
+            "web_pages": [
+                "http://www.aiims.ac.in/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "aisectuniversity.ac.in"
+            ],
+            "name": "AISECT University",
+            "state-province": null,
+            "web_pages": [
+                "http://www.aisectuniversity.ac.in/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "alagappauniversity.ac.in"
+            ],
+            "name": "Alagappa University",
+            "state-province": "Tamil Nadu",
+            "web_pages": [
+                "http://www.alagappauniversity.ac.in/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "alldunivpio.org"
+            ],
+            "name": "Allahabad University",
+            "state-province": "Uttar Pradesh",
+            "web_pages": [
+                "http://www.alldunivpio.org/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "altmeduniversity.com"
+            ],
+            "name": "Open International University for Alternative Medicines",
+            "state-province": null,
+            "web_pages": [
+                "http://www.altmeduniversity.com/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "altmedworld.net"
+            ],
+            "name": "Indian Board of Alternative Medicine",
+            "state-province": "West Bengal",
+            "web_pages": [
+                "http://www.altmedworld.net/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "amity.edu"
+            ],
+            "name": "Amity University",
+            "state-province": null,
+            "web_pages": [
+                "http://www.amity.edu/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "amrita.edu"
+            ],
+            "name": "Amrita Vishwa Vidyapeetham (Deemed University)",
+            "state-province": null,
+            "web_pages": [
+                "http://www.amrita.edu/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "amtuni.com"
+            ],
+            "name": "Amravati University",
+            "state-province": null,
+            "web_pages": [
+                "http://www.amtuni.com/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "amu.ac.in"
+            ],
+            "name": "Aligarh Muslim University",
+            "state-province": null,
+            "web_pages": [
+                "http://www.amu.ac.in/"
+            ]
+        },
+        {
+            "alpha_two_code": "IN",
+            "country": "India",
+            "domains": [
+                "andhrauniversity.info"
+            ],
+            "name": "Andhra University",
+            "state-province": null,
+            "web_pages": [
+                "http://www.andhrauniversity.info/"
+            ]
+        }
+    ]
+}
